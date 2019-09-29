@@ -127,6 +127,8 @@ Hoje, quero proporcionar isso para outras PyLadies, porque sei o quão **transfo
 
 Muitíssimo obrigada a todos vocês, 
 
+<br>
+
 <p>Ademar Peixoto - Biguá</p>
 <p>Alexandre Yukio Harano</p>
 <p>Bianca Rosa</p>
